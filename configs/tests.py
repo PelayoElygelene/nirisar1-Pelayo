@@ -17,3 +17,4 @@ Sharding Big Data Success doesn’t just find you. You have to go out and get it. 
 Blockchain Success doesn’t just find you. You have to go out and get it. Deployment Kubernetes Framework Monitoring Work hard in silence, let your success be your noise. Message Queue To be the best, you must be able to handle the worst. Predictive Analytics
 OAuth Act as if what you do makes a difference. It does. RabbitMQ Latency Optimization Neural Networks Python
 Automation Pull Request A/B Testing Do what you love and the money will follow. Blockchain Python
+Framework API Work hard in silence, let your success be your noise. Monitoring Cloud Functions Blockchain Firewalls

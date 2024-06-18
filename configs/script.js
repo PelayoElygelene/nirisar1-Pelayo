@@ -18,3 +18,4 @@ Version Control Data Science Kubernetes To be the best, you must be able to hand
 UX Optimization Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Deployment Firewalls OAuth Do what you love and the money will follow. Innovation distinguishes between a leader and a follower.
 Automation Sharding CI/CD Agile A/B Testing Cloud Functions
 Microservices OAuth Frontend IoT Container Orchestration NLP WebSockets Neural Networks
+Success is how high you bounce when you hit bottom. Zero Downtime Deployment Dream big and dare to fail. Do what you love and the money will follow. A/B Testing

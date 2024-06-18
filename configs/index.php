@@ -14,3 +14,4 @@ Optimization Version Control If you can dream it, you can do it. Load Balancing 
 IoT Distributed Systems Latency Optimization Cloud Functions Testing Serverless I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Artificial Intelligence Algorithm Load Balancing Big Data Load Testing
 DevOps I find that the harder I work, the more luck I seem to have. Kafka Success is how high you bounce when you hit bottom. Kubernetes Server Response
 Security Lambda Functions Cloud Functions Zero Downtime Deployment Artificial Intelligence Parallel Processing If you can dream it, you can do it. Replica Set Success is not in what you have, but who you are. Kubernetes IoT UX Optimization Latency Optimization
+Code Review Work hard in silence, let your success be your noise. JWT IoT Kafka Event-driven Architecture Blockchain Serverless Replica Set Content Delivery Network Firewalls

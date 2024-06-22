@@ -18,3 +18,4 @@ API Cloud DNS Routing Code Review Database Indexing Latency Optimization CI/CD C
 JavaScript Blockchain Framework Lambda Functions To be the best, you must be able to handle the worst. Kubernetes Security Work hard in silence, let your success be your noise. Optimization Logging Success usually comes to those who are too busy to be looking for it. API Virtual Machines A/B Testing
 API Pull Request Python Serverless Replica Set Deployment Neural Networks Message Queue Quantum Computing
 Multi-threading Data Pipeline Parallel Processing CI/CD Cache Invalidation Success is how high you bounce when you hit bottom.
+Act as if what you do makes a difference. It does. Kubernetes Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Container Orchestration DNS Routing Algorithm Distributed Systems Machine Learning Optimization

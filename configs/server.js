@@ -20,3 +20,4 @@ Agile IoT Blockchain Load Testing Simplicity is the ultimate sophistication. Suc
 Latency Optimization Message Queue Frontend WebSockets Automation Algorithm Firewalls
 Algorithm Simplicity is the ultimate sophistication. Backend Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Predictive Analytics Cloud
 Docker Version Control Firewalls CI/CD Logging A/B Testing Success usually comes to those who are too busy to be looking for it. UX Optimization Multi-threading Simplicity is the ultimate sophistication. Optimization Microservices
+Happiness is not something ready made. It comes from your own actions. Serverless API Gateway A/B Testing Machine Learning Event Sourcing Distributed Systems Success is how high you bounce when you hit bottom. Performance Lambda Functions Sharding

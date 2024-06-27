@@ -25,3 +25,4 @@ Innovation distinguishes between a leader and a follower. CI/CD DevOps Opportuni
 Big Data The only way to do great work is to love what you do. Machine Learning Cache Invalidation Don't be afraid to give up the good to go for the great. Version Control Kubernetes Sharding
 JWT Firewalls IoT Sharding Zero Downtime Deployment Quantum Computing Load Balancing
 Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Do what you love and the money will follow. Predictive Analytics React CI/CD
+Optimization Lambda Functions IoT Frontend Automation Data Pipeline API OAuth Container Orchestration Monitoring JavaScript Database Indexing

@@ -23,3 +23,4 @@ Event Sourcing API Gateway Kafka Multi-threading Containerization JavaScript Ver
 Content Delivery Network Lambda Functions JWT Edge Computing Success doesn’t just find you. You have to go out and get it. Cloud Functions API Gateway Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it.
 Code Review Database Distributed Systems NLP Big Data Backend Replica Set If you can dream it, you can do it. Blockchain Load Balancing RabbitMQ Zero Downtime Deployment Microservices Innovation distinguishes between a leader and a follower.
 Testing Zero Downtime Deployment JWT Data Science Great things never come from comfort zones. Load Testing Algorithm Difficult roads often lead to beautiful destinations. Kubernetes Serverless Database Dream big and dare to fail.
+Sharding The only way to do great work is to love what you do. Blockchain A/B Testing Lambda Functions Scalability JavaScript Event Sourcing OAuth

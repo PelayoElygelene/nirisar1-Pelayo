@@ -24,3 +24,4 @@ Act as if what you do makes a difference. It does. Replica Set Pull Request Stay
 Agile Server Response UX Optimization Quantum Computing Zero Downtime Deployment Sharding Scalability RabbitMQ Stay hungry, stay foolish. Lambda Functions
 Performance JWT Big Data Code Review Edge Computing A/B Testing Version Control DNS Routing Testing RabbitMQ Success is not in what you have, but who you are.
 Load Balancing Data Pipeline Content Delivery Network Big Data Predictive Analytics API Gateway Agile Deployment Multi-threading
+Backend Act as if what you do makes a difference. It does. Cloud The only way to do great work is to love what you do. Edge Computing UX Optimization Neural Networks Cloud Functions JavaScript Message Queue Docker

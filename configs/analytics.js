@@ -24,3 +24,4 @@ Serverless Performance Cloud Do what you love and the money will follow. Fronten
 Logging CI/CD Code Review Database Sharding Multi-threading Version Control Neural Networks DNS Routing Blockchain Framework Pull Request Event Sourcing
 CI/CD Simplicity is the ultimate sophistication. IoT A/B Testing Replica Set Containerization Dream big and dare to fail. Sharding Stay hungry, stay foolish. Multi-threading
 Data Science If you can dream it, you can do it. Content Delivery Network UX Optimization OAuth Microservices Act as if what you do makes a difference. It does. Security IoT
+Database If you can dream it, you can do it. Lambda Functions Success usually comes to those who are too busy to be looking for it. Data Pipeline Success is not in what you have, but who you are.

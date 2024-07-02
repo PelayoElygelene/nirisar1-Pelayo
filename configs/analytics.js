@@ -23,3 +23,4 @@ Event Sourcing Success is not in what you have, but who you are. Cloud GraphQL M
 Serverless Performance Cloud Do what you love and the money will follow. Frontend Version Control API Edge Computing Event Sourcing Sharding JavaScript
 Logging CI/CD Code Review Database Sharding Multi-threading Version Control Neural Networks DNS Routing Blockchain Framework Pull Request Event Sourcing
 CI/CD Simplicity is the ultimate sophistication. IoT A/B Testing Replica Set Containerization Dream big and dare to fail. Sharding Stay hungry, stay foolish. Multi-threading
+Data Science If you can dream it, you can do it. Content Delivery Network UX Optimization OAuth Microservices Act as if what you do makes a difference. It does. Security IoT

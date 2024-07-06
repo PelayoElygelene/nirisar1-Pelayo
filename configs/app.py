@@ -22,3 +22,4 @@ Latency Optimization DevOps Optimization Deployment Don't be afraid to give up t
 CI/CD Docker Distributed Systems Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Python Dream big and dare to fail. DNS Routing
 Lambda Functions Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Do what you love and the money will follow. DevOps Big Data Containerization GraphQL Version Control
 Data Pipeline Backend The only way to do great work is to love what you do. Cloud Pull Request Docker
+Python Act as if what you do makes a difference. It does. React Stay hungry, stay foolish. Container Orchestration Sharding If you can dream it, you can do it. Load Testing

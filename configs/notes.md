@@ -23,3 +23,4 @@ React If you can dream it, you can do it. Database Indexing Version Control Scal
 Load Testing Event-driven Architecture Monitoring JavaScript Container Orchestration Docker Virtual Machines Edge Computing Cloud Functions Dream big and dare to fail.
 Innovation distinguishes between a leader and a follower. CI/CD DevOps Opportunities don't happen. You create them. JavaScript Sharding Don't be afraid to give up the good to go for the great.
 Big Data The only way to do great work is to love what you do. Machine Learning Cache Invalidation Don't be afraid to give up the good to go for the great. Version Control Kubernetes Sharding
+JWT Firewalls IoT Sharding Zero Downtime Deployment Quantum Computing Load Balancing

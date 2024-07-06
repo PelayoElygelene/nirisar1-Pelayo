@@ -17,3 +17,4 @@ Kafka CI/CD Frontend Monitoring Pull Request Algorithm Data Pipeline Success is 
 Backend Cloud Docker Cloud Functions Database Zero Downtime Deployment Big Data Deployment Framework Algorithm Happiness is not something ready made. It comes from your own actions.
 Cloud Predictive Analytics If you can dream it, you can do it. Database Testing Kafka
 The only way to do great work is to love what you do. Automation Success is not in what you have, but who you are. Containerization Docker
+OAuth Security Big Data Multi-threading Firewalls Load Balancing Parallel Processing Innovation distinguishes between a leader and a follower. Event-driven Architecture

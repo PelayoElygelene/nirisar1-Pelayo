@@ -17,3 +17,4 @@ Zero Downtime Deployment Backend Do what you love and the money will follow. Wor
 Algorithm NLP Great things never come from comfort zones. Data Pipeline Sharding
 Work hard in silence, let your success be your noise. Predictive Analytics Database Difficult roads often lead to beautiful destinations. WebSockets API Gateway
 Happiness is not something ready made. It comes from your own actions. A/B Testing Latency Optimization Content Delivery Network Sharding Opportunities don't happen. You create them. Virtual Machines Edge Computing
+Load Testing Data Science Distributed Systems Kubernetes Monitoring A/B Testing Firewalls Docker IoT Predictive Analytics Success is how high you bounce when you hit bottom. Zero Downtime Deployment NLP Deployment Pull Request

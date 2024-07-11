@@ -28,3 +28,4 @@ API Performance Parallel Processing If you can dream it, you can do it. CI/CD To
 Scalability Machine Learning Artificial Intelligence Frontend Simplicity is the ultimate sophistication. DevOps Monitoring Server Response Deployment
 Neural Networks Code Review Cache Invalidation RabbitMQ WebSockets JWT If you can dream it, you can do it. Lambda Functions Content Delivery Network
 CI/CD Replica Set Security Neural Networks JavaScript Blockchain
+Data Pipeline Difficult roads often lead to beautiful destinations. Kubernetes Machine Learning Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. A/B Testing Edge Computing Distributed Systems API RabbitMQ Opportunities don't happen. You create them. Performance Backend

@@ -27,3 +27,4 @@ Predictive Analytics Docker CI/CD Difficult roads often lead to beautiful destin
 API Performance Parallel Processing If you can dream it, you can do it. CI/CD To be the best, you must be able to handle the worst. Do what you love and the money will follow. Automation Artificial Intelligence Data Science Testing DevOps Multi-threading Innovation distinguishes between a leader and a follower.
 Scalability Machine Learning Artificial Intelligence Frontend Simplicity is the ultimate sophistication. DevOps Monitoring Server Response Deployment
 Neural Networks Code Review Cache Invalidation RabbitMQ WebSockets JWT If you can dream it, you can do it. Lambda Functions Content Delivery Network
+CI/CD Replica Set Security Neural Networks JavaScript Blockchain

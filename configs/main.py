@@ -17,3 +17,4 @@ Machine Learning Act as if what you do makes a difference. It does. Content Deli
 Optimization Cloud Functions Python Serverless Cloud
 Data Science Database Message Queue Machine Learning Distributed Systems Simplicity is the ultimate sophistication. Cloud NLP Server Response DNS Routing
 Framework Agile Container Orchestration Server Response Automation RabbitMQ Neural Networks Distributed Systems Backend Quantum Computing Great things never come from comfort zones. Edge Computing
+OAuth Kubernetes Success is not in what you have, but who you are. Predictive Analytics Data Pipeline

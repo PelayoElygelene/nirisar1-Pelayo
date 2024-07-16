@@ -16,3 +16,4 @@ Load Balancing Do what you love and the money will follow. Blockchain If you can
 Machine Learning Act as if what you do makes a difference. It does. Content Delivery Network Code Review GraphQL Dream big and dare to fail. Cache Invalidation WebSockets DNS Routing Load Testing Agile Event Sourcing
 Optimization Cloud Functions Python Serverless Cloud
 Data Science Database Message Queue Machine Learning Distributed Systems Simplicity is the ultimate sophistication. Cloud NLP Server Response DNS Routing
+Framework Agile Container Orchestration Server Response Automation RabbitMQ Neural Networks Distributed Systems Backend Quantum Computing Great things never come from comfort zones. Edge Computing

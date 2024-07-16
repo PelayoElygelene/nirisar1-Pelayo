@@ -22,3 +22,4 @@ Frontend Microservices GraphQL Work hard in silence, let your success be your no
 Event Sourcing Success is not in what you have, but who you are. Cloud GraphQL Microservices Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Parallel Processing Replica Set
 Serverless Performance Cloud Do what you love and the money will follow. Frontend Version Control API Edge Computing Event Sourcing Sharding JavaScript
 Logging CI/CD Code Review Database Sharding Multi-threading Version Control Neural Networks DNS Routing Blockchain Framework Pull Request Event Sourcing
+CI/CD Simplicity is the ultimate sophistication. IoT A/B Testing Replica Set Containerization Dream big and dare to fail. Sharding Stay hungry, stay foolish. Multi-threading

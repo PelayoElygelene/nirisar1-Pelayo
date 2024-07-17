@@ -21,3 +21,4 @@ Cache Invalidation Container Orchestration RabbitMQ Opportunities don't happen. 
 JWT Serverless Testing Cache Invalidation Parallel Processing Replica Set Frontend Python CI/CD Do what you love and the money will follow.
 React If you can dream it, you can do it. Database Indexing Version Control Scalability Security I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Server Response The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Serverless
 Load Testing Event-driven Architecture Monitoring JavaScript Container Orchestration Docker Virtual Machines Edge Computing Cloud Functions Dream big and dare to fail.
+Innovation distinguishes between a leader and a follower. CI/CD DevOps Opportunities don't happen. You create them. JavaScript Sharding Don't be afraid to give up the good to go for the great.

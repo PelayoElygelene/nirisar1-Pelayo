@@ -15,3 +15,4 @@ Kafka Framework Pull Request Server Response API Gateway Automation JavaScript I
 Load Balancing Do what you love and the money will follow. Blockchain If you can dream it, you can do it. Multi-threading Frontend Scalability IoT Python Opportunities don't happen. You create them.
 Machine Learning Act as if what you do makes a difference. It does. Content Delivery Network Code Review GraphQL Dream big and dare to fail. Cache Invalidation WebSockets DNS Routing Load Testing Agile Event Sourcing
 Optimization Cloud Functions Python Serverless Cloud
+Data Science Database Message Queue Machine Learning Distributed Systems Simplicity is the ultimate sophistication. Cloud NLP Server Response DNS Routing

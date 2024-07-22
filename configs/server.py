@@ -15,3 +15,4 @@ Version Control Container Orchestration Cloud Functions Quantum Computing Contai
 Containerization Event Sourcing Load Testing Do what you love and the money will follow. UX Optimization Monitoring Big Data Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower.
 Kafka CI/CD Frontend Monitoring Pull Request Algorithm Data Pipeline Success is not in what you have, but who you are. Optimization Load Balancing OAuth The only way to do great work is to love what you do. Predictive Analytics Kubernetes
 Backend Cloud Docker Cloud Functions Database Zero Downtime Deployment Big Data Deployment Framework Algorithm Happiness is not something ready made. It comes from your own actions.
+Cloud Predictive Analytics If you can dream it, you can do it. Database Testing Kafka

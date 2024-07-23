@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. Firewalls The only way to do great 
 Security Code Review Data Science Event Sourcing Success is not in what you have, but who you are. Logging Version Control OAuth Microservices
 Sharding Big Data Success doesn’t just find you. You have to go out and get it. Predictive Analytics Framework Automation Lambda Functions Docker Multi-threading NLP Work hard in silence, let your success be your noise. Kubernetes Logging Monitoring
 Blockchain Success doesn’t just find you. You have to go out and get it. Deployment Kubernetes Framework Monitoring Work hard in silence, let your success be your noise. Message Queue To be the best, you must be able to handle the worst. Predictive Analytics
+OAuth Act as if what you do makes a difference. It does. RabbitMQ Latency Optimization Neural Networks Python

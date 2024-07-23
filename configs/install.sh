@@ -21,3 +21,4 @@ Work hard in silence, let your success be your noise. If you can dream it, you c
 NLP Distributed Systems Stay hungry, stay foolish. Lambda Functions CI/CD Containerization Backend JavaScript OAuth Cache Invalidation Success doesn’t just find you. You have to go out and get it. Cloud Functions Testing
 Event Sourcing API Gateway Kafka Multi-threading Containerization JavaScript Version Control Cloud Load Balancing Pull Request Serverless
 Content Delivery Network Lambda Functions JWT Edge Computing Success doesn’t just find you. You have to go out and get it. Cloud Functions API Gateway Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it.
+Code Review Database Distributed Systems NLP Big Data Backend Replica Set If you can dream it, you can do it. Blockchain Load Balancing RabbitMQ Zero Downtime Deployment Microservices Innovation distinguishes between a leader and a follower.

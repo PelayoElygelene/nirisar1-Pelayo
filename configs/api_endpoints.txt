@@ -15,3 +15,4 @@ Distributed Systems Optimization Firewalls Algorithm Version Control DevOps Shar
 Python Load Testing Version Control Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Data Science I find that the harder I work, the more luck I seem to have. Sharding Monitoring
 Containerization Latency Optimization Logging Distributed Systems OAuth Success doesn’t just find you. You have to go out and get it.
 Blockchain Zero Downtime Deployment A/B Testing Difficult roads often lead to beautiful destinations. Automation Stay hungry, stay foolish. Load Balancing
+Framework Cache Invalidation Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. JavaScript NLP If you can dream it, you can do it. Logging Machine Learning Edge Computing Kubernetes Difficult roads often lead to beautiful destinations. Neural Networks

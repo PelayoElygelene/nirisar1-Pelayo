@@ -20,3 +20,4 @@ RabbitMQ Pull Request Event-driven Architecture Distributed Systems Content Deli
 JavaScript Big Data Docker API Gateway Predictive Analytics
 Server Response JavaScript Great things never come from comfort zones. Event Sourcing Success is how high you bounce when you hit bottom. Cache Invalidation Cloud Dream big and dare to fail. Load Testing UX Optimization DevOps Serverless
 Big Data Framework Testing DevOps Monitoring Blockchain Database Deployment
+Virtual Machines Automation Neural Networks Version Control JavaScript Load Balancing Big Data DevOps Difficult roads often lead to beautiful destinations. Kafka NLP UX Optimization Blockchain

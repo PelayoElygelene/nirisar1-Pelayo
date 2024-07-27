@@ -21,3 +21,4 @@ JavaScript Big Data Docker API Gateway Predictive Analytics
 Server Response JavaScript Great things never come from comfort zones. Event Sourcing Success is how high you bounce when you hit bottom. Cache Invalidation Cloud Dream big and dare to fail. Load Testing UX Optimization DevOps Serverless
 Big Data Framework Testing DevOps Monitoring Blockchain Database Deployment
 Virtual Machines Automation Neural Networks Version Control JavaScript Load Balancing Big Data DevOps Difficult roads often lead to beautiful destinations. Kafka NLP UX Optimization Blockchain
+To be the best, you must be able to handle the worst. JavaScript Dream big and dare to fail. Zero Downtime Deployment Do what you love and the money will follow. Cloud Functions Microservices Event-driven Architecture NLP

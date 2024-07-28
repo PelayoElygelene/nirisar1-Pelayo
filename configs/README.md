@@ -18,3 +18,4 @@ Data Science Virtual Machines Performance Success usually comes to those who are
 Dream big and dare to fail. Version Control Kafka Monitoring Server Response Database Don't be afraid to give up the good to go for the great. Message Queue Opportunities don't happen. You create them. Quantum Computing Event Sourcing CI/CD
 NLP Simplicity is the ultimate sophistication. Python IoT Replica Set Cloud Predictive Analytics Logging Distributed Systems DNS Routing Optimization
 The only way to do great work is to love what you do. Event Sourcing Great things never come from comfort zones. Opportunities don't happen. You create them. Success is not in what you have, but who you are. Database Indexing WebSockets
+Performance Distributed Systems Database Indexing Data Science Backend Multi-threading Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Algorithm Cache Invalidation Neural Networks

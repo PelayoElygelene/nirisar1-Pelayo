@@ -18,3 +18,4 @@ JWT UX Optimization API Gateway Containerization Neural Networks Innovation dist
 Security OAuth Cache Invalidation API Happiness is not something ready made. It comes from your own actions. Kubernetes DNS Routing If you can dream it, you can do it. Sharding Monitoring JavaScript
 Agile IoT Blockchain Load Testing Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have.
 Latency Optimization Message Queue Frontend WebSockets Automation Algorithm Firewalls
+Algorithm Simplicity is the ultimate sophistication. Backend Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Predictive Analytics Cloud

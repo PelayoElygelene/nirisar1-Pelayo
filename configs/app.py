@@ -19,3 +19,4 @@ React If you can dream it, you can do it. Success usually comes to those who are
 Predictive Analytics Blockchain Kubernetes Difficult roads often lead to beautiful destinations. Python JWT
 Docker Distributed Systems Monitoring Success doesn’t just find you. You have to go out and get it. Performance Quantum Computing Stay hungry, stay foolish. Code Review Cloud Server Response Container Orchestration
 Latency Optimization DevOps Optimization Deployment Don't be afraid to give up the good to go for the great. Edge Computing
+CI/CD Docker Distributed Systems Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Python Dream big and dare to fail. DNS Routing

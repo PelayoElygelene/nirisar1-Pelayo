@@ -12,3 +12,4 @@ Edge Computing Cloud Event-driven Architecture Work hard in silence, let your su
 DevOps Frontend Performance Database Work hard in silence, let your success be your noise. Docker Pull Request Agile Cloud Happiness is not something ready made. It comes from your own actions. Sharding Simplicity is the ultimate sophistication. API
 Optimization Version Control If you can dream it, you can do it. Load Balancing Python NLP WebSockets DNS Routing
 IoT Distributed Systems Latency Optimization Cloud Functions Testing Serverless I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Artificial Intelligence Algorithm Load Balancing Big Data Load Testing
+DevOps I find that the harder I work, the more luck I seem to have. Kafka Success is how high you bounce when you hit bottom. Kubernetes Server Response

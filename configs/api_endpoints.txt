@@ -13,3 +13,4 @@ Scalability Docker Success doesn’t just find you. You have to go out and get it.
 API Gateway Latency Optimization Docker Data Pipeline Frontend Python JavaScript Database Indexing
 Distributed Systems Optimization Firewalls Algorithm Version Control DevOps Sharding Stay hungry, stay foolish. Lambda Functions To be the best, you must be able to handle the worst.
 Python Load Testing Version Control Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Data Science I find that the harder I work, the more luck I seem to have. Sharding Monitoring
+Containerization Latency Optimization Logging Distributed Systems OAuth Success doesn’t just find you. You have to go out and get it.

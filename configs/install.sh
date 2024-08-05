@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. DevOps Cloud Predi
 Success usually comes to those who are too busy to be looking for it. Agile Load Testing Virtual Machines Firewalls Artificial Intelligence
 Work hard in silence, let your success be your noise. If you can dream it, you can do it. Multi-threading Success doesn’t just find you. You have to go out and get it. Container Orchestration Cache Invalidation Version Control Frontend
 NLP Distributed Systems Stay hungry, stay foolish. Lambda Functions CI/CD Containerization Backend JavaScript OAuth Cache Invalidation Success doesn’t just find you. You have to go out and get it. Cloud Functions Testing
+Event Sourcing API Gateway Kafka Multi-threading Containerization JavaScript Version Control Cloud Load Balancing Pull Request Serverless

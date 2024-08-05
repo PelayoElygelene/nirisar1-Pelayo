@@ -18,3 +18,4 @@ Work hard in silence, let your success be your noise. Happiness is not something
 React If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. DevOps Work hard in silence, let your success be your noise. Message Queue Quantum Computing
 Predictive Analytics Blockchain Kubernetes Difficult roads often lead to beautiful destinations. Python JWT
 Docker Distributed Systems Monitoring Success doesn’t just find you. You have to go out and get it. Performance Quantum Computing Stay hungry, stay foolish. Code Review Cloud Server Response Container Orchestration
+Latency Optimization DevOps Optimization Deployment Don't be afraid to give up the good to go for the great. Edge Computing

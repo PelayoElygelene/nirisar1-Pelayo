@@ -15,3 +15,4 @@ React Container Orchestration Agile Algorithm CI/CD Difficult roads often lead t
 Data Science I find that the harder I work, the more luck I seem to have. React Performance Scalability
 Artificial Intelligence Python Sharding Parallel Processing Scalability
 Artificial Intelligence Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Event Sourcing JavaScript
+Backend WebSockets Database A/B Testing Work hard in silence, let your success be your noise. Predictive Analytics Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Event Sourcing Monitoring Optimization

@@ -13,3 +13,4 @@ API Gateway Innovation distinguishes between a leader and a follower. Message Qu
 Security NLP Database Indexing Blockchain Cloud Opportunities don't happen. You create them. Success is not in what you have, but who you are. Data Science
 NLP Event Sourcing Don't be afraid to give up the good to go for the great. Replica Set Artificial Intelligence Containerization If you can dream it, you can do it.
 Data Science Python Framework WebSockets Testing
+Zero Downtime Deployment Backend Do what you love and the money will follow. Work hard in silence, let your success be your noise. Sharding Testing Server Response Docker Load Balancing DevOps Blockchain IoT Success doesn’t just find you. You have to go out and get it. Monitoring Artificial Intelligence

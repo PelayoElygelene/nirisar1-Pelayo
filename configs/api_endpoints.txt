@@ -11,3 +11,4 @@ I find that the harder I work, the more luck I seem to have. Replica Set Artific
 Server Response Lambda Functions API React Virtual Machines Success usually comes to those who are too busy to be looking for it. Cloud Python Message Queue Automation Multi-threading
 Scalability Docker Success doesn’t just find you. You have to go out and get it. Agile Optimization Stay hungry, stay foolish.
 API Gateway Latency Optimization Docker Data Pipeline Frontend Python JavaScript Database Indexing
+Distributed Systems Optimization Firewalls Algorithm Version Control DevOps Sharding Stay hungry, stay foolish. Lambda Functions To be the best, you must be able to handle the worst.

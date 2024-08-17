@@ -14,3 +14,4 @@ Innovation distinguishes between a leader and a follower. Neural Networks Server
 React Container Orchestration Agile Algorithm CI/CD Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. JavaScript Sharding Dream big and dare to fail. Backend Artificial Intelligence Cloud Functions DevOps
 Data Science I find that the harder I work, the more luck I seem to have. React Performance Scalability
 Artificial Intelligence Python Sharding Parallel Processing Scalability
+Artificial Intelligence Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Event Sourcing JavaScript

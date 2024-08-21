@@ -17,3 +17,4 @@ DevOps Neural Networks Success is how high you bounce when you hit bottom. Cache
 Cloud Cloud Functions Code Review Great things never come from comfort zones. Testing Kubernetes Frontend Agile Success is not in what you have, but who you are. Database IoT
 Success doesn’t just find you. You have to go out and get it. DevOps Cloud Predictive Analytics Pull Request Server Response Deployment Success is not in what you have, but who you are. GraphQL Event-driven Architecture Performance
 Success usually comes to those who are too busy to be looking for it. Agile Load Testing Virtual Machines Firewalls Artificial Intelligence
+Work hard in silence, let your success be your noise. If you can dream it, you can do it. Multi-threading Success doesn’t just find you. You have to go out and get it. Container Orchestration Cache Invalidation Version Control Frontend

@@ -15,3 +15,4 @@ Container Orchestration Event Sourcing GraphQL If you can dream it, you can do i
 To be the best, you must be able to handle the worst. Optimization Pull Request Opportunities don't happen. You create them. Latency Optimization Edge Computing DevOps Backend Machine Learning Version Control WebSockets Replica Set Logging Lambda Functions Testing
 Security Replica Set Containerization Code Review Difficult roads often lead to beautiful destinations. Distributed Systems Cache Invalidation
 JWT Success is how high you bounce when you hit bottom. Database OAuth Quantum Computing Logging Monitoring Docker Success is not in what you have, but who you are. A/B Testing UX Optimization Cache Invalidation
+Distributed Systems DevOps Dream big and dare to fail. Serverless Blockchain CI/CD Load Testing Difficult roads often lead to beautiful destinations. GraphQL API Gateway Deployment Artificial Intelligence Data Pipeline

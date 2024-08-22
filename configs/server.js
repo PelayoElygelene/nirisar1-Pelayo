@@ -13,3 +13,4 @@ API React Microservices Content Delivery Network Happiness is not something read
 Frontend Optimization Code Review JavaScript JWT Predictive Analytics Lambda Functions Backend
 Latency Optimization Opportunities don't happen. You create them. If you can dream it, you can do it. API Act as if what you do makes a difference. It does. Load Testing Pull Request API Gateway Containerization Load Balancing Machine Learning
 React Stay hungry, stay foolish. Load Testing Blockchain Framework WebSockets Serverless Kubernetes Success usually comes to those who are too busy to be looking for it. DevOps
+Code Review Version Control OAuth Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Predictive Analytics Kafka I find that the harder I work, the more luck I seem to have. IoT Success is how high you bounce when you hit bottom. Message Queue

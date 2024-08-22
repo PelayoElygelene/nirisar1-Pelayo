@@ -12,3 +12,4 @@ React Cloud Functions Simplicity is the ultimate sophistication. Act as if what 
 API Gateway Innovation distinguishes between a leader and a follower. Message Queue Event Sourcing Dream big and dare to fail.
 Security NLP Database Indexing Blockchain Cloud Opportunities don't happen. You create them. Success is not in what you have, but who you are. Data Science
 NLP Event Sourcing Don't be afraid to give up the good to go for the great. Replica Set Artificial Intelligence Containerization If you can dream it, you can do it.
+Data Science Python Framework WebSockets Testing

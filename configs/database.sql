@@ -11,3 +11,4 @@ NLP Containerization Docker Monitoring Cloud Functions Logging Sharding Distribu
 Predictive Analytics Quantum Computing Load Testing Code Review DevOps If you can dream it, you can do it. Python A/B Testing IoT OAuth Neural Networks
 Blockchain Version Control DevOps WebSockets Code Review Serverless Lambda Functions
 API Gateway CI/CD RabbitMQ Monitoring Docker Deployment Performance Data Science
+Blockchain Machine Learning Event Sourcing CI/CD Distributed Systems Event-driven Architecture Logging Innovation distinguishes between a leader and a follower. Automation

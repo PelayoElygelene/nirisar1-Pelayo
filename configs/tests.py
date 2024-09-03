@@ -9,3 +9,4 @@ Code Review Database Indexing Cloud Pull Request Data Pipeline Cache Invalidatio
 React Docker If you can dream it, you can do it. IoT Cloud Event-driven Architecture JavaScript Kubernetes Success is not in what you have, but who you are. Data Science Container Orchestration Do what you love and the money will follow. Content Delivery Network
 Multi-threading Data Pipeline Container Orchestration Docker Parallel Processing
 Algorithm A/B Testing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Version Control Difficult roads often lead to beautiful destinations. Microservices Frontend
+Multi-threading JWT Edge Computing Distributed Systems Neural Networks Backend DNS Routing RabbitMQ Data Science Python I find that the harder I work, the more luck I seem to have. IoT Success usually comes to those who are too busy to be looking for it.

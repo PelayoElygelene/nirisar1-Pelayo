@@ -13,3 +13,4 @@ Framework NLP Success doesn’t just find you. You have to go out and get it. Diff
 Load Testing Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Framework Success is how high you bounce when you hit bottom. Python Message Queue Virtual Machines CI/CD Artificial Intelligence
 Container Orchestration Event Sourcing GraphQL If you can dream it, you can do it. Distributed Systems A/B Testing Event-driven Architecture Performance Optimization
 To be the best, you must be able to handle the worst. Optimization Pull Request Opportunities don't happen. You create them. Latency Optimization Edge Computing DevOps Backend Machine Learning Version Control WebSockets Replica Set Logging Lambda Functions Testing
+Security Replica Set Containerization Code Review Difficult roads often lead to beautiful destinations. Distributed Systems Cache Invalidation

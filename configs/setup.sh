@@ -17,3 +17,4 @@ Great things never come from comfort zones. Framework Database Indexing Success 
 The only way to do great work is to love what you do. Dream big and dare to fail. Cache Invalidation Virtual Machines Content Delivery Network Edge Computing Event Sourcing Framework Logging WebSockets
 Backend Agile RabbitMQ API Message Queue Scalability Neural Networks Performance Cloud Dream big and dare to fail. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it.
 RabbitMQ Pull Request Event-driven Architecture Distributed Systems Content Delivery Network Multi-threading If you can dream it, you can do it. Quantum Computing Kubernetes CI/CD Python To be the best, you must be able to handle the worst. Security
+JavaScript Big Data Docker API Gateway Predictive Analytics

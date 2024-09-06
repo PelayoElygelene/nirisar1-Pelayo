@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Security JavaScript
 API Gateway Distributed Systems If you can dream it, you can do it. Security Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Big Data Deployment Do what you love and the money will follow.
 Difficult roads often lead to beautiful destinations. Blockchain Load Balancing React Data Science Data Pipeline
 React Cloud Functions Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Machine Learning Python Don't be afraid to give up the good to go for the great. Parallel Processing Zero Downtime Deployment Firewalls Database Indexing Cache Invalidation Code Review Serverless
+API Gateway Innovation distinguishes between a leader and a follower. Message Queue Event Sourcing Dream big and dare to fail.

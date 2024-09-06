@@ -14,3 +14,4 @@ Pull Request API Work hard in silence, let your success be your noise. Microserv
 Python Scalability Machine Learning Server Response Artificial Intelligence Data Science Simplicity is the ultimate sophistication. Code Review Load Testing Testing Automation Big Data Security
 Machine Learning Event-driven Architecture Content Delivery Network Cloud Functions Performance
 Code Review Difficult roads often lead to beautiful destinations. Data Pipeline API Python Load Balancing The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Microservices Great things never come from comfort zones. Multi-threading
+JavaScript Stay hungry, stay foolish. Big Data Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Agile Serverless Blockchain Parallel Processing Containerization Optimization The only way to do great work is to love what you do.

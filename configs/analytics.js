@@ -16,3 +16,4 @@ Message Queue API Gateway Multi-threading Act as if what you do makes a differen
 DNS Routing RabbitMQ Code Review WebSockets Replica Set Optimization Load Testing Blockchain I find that the harder I work, the more luck I seem to have.
 React Content Delivery Network Load Balancing Simplicity is the ultimate sophistication. Data Science Success doesn’t just find you. You have to go out and get it. Code Review Kafka Success usually comes to those who are too busy to be looking for it. Kubernetes Microservices Logging Difficult roads often lead to beautiful destinations. Serverless
 Data Science GraphQL Database Indexing Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower.
+Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Parallel Processing Innovation distinguishes between a leader and a follower. Load Balancing

@@ -13,3 +13,4 @@ Kubernetes API Code Review UX Optimization Pull Request Cache Invalidation IoT A
 Opportunities don't happen. You create them. Database Indexing DNS Routing Version Control Distributed Systems Predictive Analytics IoT Replica Set
 Monitoring Distributed Systems Event-driven Architecture Neural Networks The only way to do great work is to love what you do. Agile GraphQL
 Predictive Analytics Agile Performance OAuth Replica Set API Version Control Backend Container Orchestration NLP RabbitMQ Database Indexing
+DevOps Neural Networks Success is how high you bounce when you hit bottom. Cache Invalidation Edge Computing Sharding Load Balancing Cloud Functions Docker DNS Routing Dream big and dare to fail.

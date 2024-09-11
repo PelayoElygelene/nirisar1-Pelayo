@@ -16,3 +16,4 @@ Parallel Processing CI/CD Monitoring Data Pipeline JWT
 Neural Networks WebSockets Distributed Systems JavaScript Kubernetes Event Sourcing Frontend API
 Data Science Algorithm Success is how high you bounce when you hit bottom. API Automation If you can dream it, you can do it. Frontend Server Response React Work hard in silence, let your success be your noise. Dream big and dare to fail.
 Database Predictive Analytics Load Testing Firewalls Lambda Functions Version Control Agile Optimization Difficult roads often lead to beautiful destinations. Container Orchestration Kafka Success doesn’t just find you. You have to go out and get it. Kubernetes Content Delivery Network IoT
+Virtual Machines Docker Event Sourcing Testing Success usually comes to those who are too busy to be looking for it. Frontend Cache Invalidation Quantum Computing Data Science

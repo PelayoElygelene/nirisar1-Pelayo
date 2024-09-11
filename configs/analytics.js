@@ -14,3 +14,4 @@ Algorithm Zero Downtime Deployment CI/CD Kafka Agile JWT Logging Blockchain DNS 
 Data Pipeline Load Balancing Version Control Distributed Systems Automation
 Message Queue API Gateway Multi-threading Act as if what you do makes a difference. It does. Artificial Intelligence DevOps Pull Request React Work hard in silence, let your success be your noise. Backend JWT Security Algorithm
 DNS Routing RabbitMQ Code Review WebSockets Replica Set Optimization Load Testing Blockchain I find that the harder I work, the more luck I seem to have.
+React Content Delivery Network Load Balancing Simplicity is the ultimate sophistication. Data Science Success doesn’t just find you. You have to go out and get it. Code Review Kafka Success usually comes to those who are too busy to be looking for it. Kubernetes Microservices Logging Difficult roads often lead to beautiful destinations. Serverless

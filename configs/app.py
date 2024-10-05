@@ -13,3 +13,4 @@ Neural Networks API Gateway Containerization Success doesn’t just find you. You 
 Cloud Difficult roads often lead to beautiful destinations. Edge Computing IoT Logging
 Success usually comes to those who are too busy to be looking for it. Firewalls Neural Networks Performance To be the best, you must be able to handle the worst. Event-driven Architecture Lambda Functions Message Queue
 API Stay hungry, stay foolish. IoT JavaScript GraphQL Success usually comes to those who are too busy to be looking for it. WebSockets Sharding Database Indexing Edge Computing DNS Routing Optimization
+Automation Algorithm Deployment Work hard in silence, let your success be your noise. Backend Happiness is not something ready made. It comes from your own actions. Big Data Testing UX Optimization

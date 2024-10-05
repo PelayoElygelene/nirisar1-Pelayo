@@ -10,3 +10,4 @@ Scalability Testing Containerization Big Data JavaScript Neural Networks Load Te
 NLP Containerization Docker Monitoring Cloud Functions Logging Sharding Distributed Systems WebSockets Security IoT React Success is not in what you have, but who you are.
 Predictive Analytics Quantum Computing Load Testing Code Review DevOps If you can dream it, you can do it. Python A/B Testing IoT OAuth Neural Networks
 Blockchain Version Control DevOps WebSockets Code Review Serverless Lambda Functions
+API Gateway CI/CD RabbitMQ Monitoring Docker Deployment Performance Data Science

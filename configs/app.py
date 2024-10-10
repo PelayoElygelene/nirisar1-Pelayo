@@ -12,3 +12,4 @@ Virtual Machines Blockchain WebSockets NLP Happiness is not something ready made
 Neural Networks API Gateway Containerization Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Kubernetes Frontend I find that the harder I work, the more luck I seem to have.
 Cloud Difficult roads often lead to beautiful destinations. Edge Computing IoT Logging
 Success usually comes to those who are too busy to be looking for it. Firewalls Neural Networks Performance To be the best, you must be able to handle the worst. Event-driven Architecture Lambda Functions Message Queue
+API Stay hungry, stay foolish. IoT JavaScript GraphQL Success usually comes to those who are too busy to be looking for it. WebSockets Sharding Database Indexing Edge Computing DNS Routing Optimization

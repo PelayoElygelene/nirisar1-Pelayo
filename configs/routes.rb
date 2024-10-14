@@ -6,3 +6,4 @@ API CI/CD Cloud Functions JavaScript Algorithm Event-driven Architecture Testing
 Data Pipeline Agile Scalability Kubernetes Lambda Functions API Cache Invalidation Distributed Systems Python
 Content Delivery Network Big Data Server Response Code Review Blockchain
 I find that the harder I work, the more luck I seem to have. Security JavaScript Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Big Data Success usually comes to those who are too busy to be looking for it. Microservices Frontend
+API Gateway Distributed Systems If you can dream it, you can do it. Security Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Big Data Deployment Do what you love and the money will follow.

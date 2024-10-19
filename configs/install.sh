@@ -11,3 +11,4 @@ Kubernetes I find that the harder I work, the more luck I seem to have. Stay hun
 Artificial Intelligence Containerization Success usually comes to those who are too busy to be looking for it. Cache Invalidation Scalability NLP
 Kubernetes API Code Review UX Optimization Pull Request Cache Invalidation IoT A/B Testing Cloud Functions Event-driven Architecture Monitoring Success doesn’t just find you. You have to go out and get it.
 Opportunities don't happen. You create them. Database Indexing DNS Routing Version Control Distributed Systems Predictive Analytics IoT Replica Set
+Monitoring Distributed Systems Event-driven Architecture Neural Networks The only way to do great work is to love what you do. Agile GraphQL

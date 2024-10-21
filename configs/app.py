@@ -11,3 +11,4 @@ Backend Latency Optimization Don't be afraid to give up the good to go for the g
 Virtual Machines Blockchain WebSockets NLP Happiness is not something ready made. It comes from your own actions. Content Delivery Network Neural Networks Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Automation Success usually comes to those who are too busy to be looking for it. Testing
 Neural Networks API Gateway Containerization Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Kubernetes Frontend I find that the harder I work, the more luck I seem to have.
 Cloud Difficult roads often lead to beautiful destinations. Edge Computing IoT Logging
+Success usually comes to those who are too busy to be looking for it. Firewalls Neural Networks Performance To be the best, you must be able to handle the worst. Event-driven Architecture Lambda Functions Message Queue

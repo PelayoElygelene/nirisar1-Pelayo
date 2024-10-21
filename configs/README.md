@@ -11,3 +11,4 @@ Predictive Analytics Success is not in what you have, but who you are. Quantum C
 Firewalls Big Data Great things never come from comfort zones. Agile Algorithm Database Indexing
 Logging Cache Invalidation Predictive Analytics Microservices Blockchain Dream big and dare to fail. Algorithm
 Optimization UX Optimization Testing Python Code Review Sharding Success is how high you bounce when you hit bottom. Backend
+Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Logging The only way to do great work is to love what you do. Great things never come from comfort zones.

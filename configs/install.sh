@@ -10,3 +10,4 @@ Serverless Monitoring Performance Don't be afraid to give up the good to go for 
 Kubernetes I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. GraphQL Great things never come from comfort zones. Blockchain Pull Request React Multi-threading Difficult roads often lead to beautiful destinations. Testing Load Balancing Work hard in silence, let your success be your noise. JWT
 Artificial Intelligence Containerization Success usually comes to those who are too busy to be looking for it. Cache Invalidation Scalability NLP
 Kubernetes API Code Review UX Optimization Pull Request Cache Invalidation IoT A/B Testing Cloud Functions Event-driven Architecture Monitoring Success doesn’t just find you. You have to go out and get it.
+Opportunities don't happen. You create them. Database Indexing DNS Routing Version Control Distributed Systems Predictive Analytics IoT Replica Set

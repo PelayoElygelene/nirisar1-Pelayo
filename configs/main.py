@@ -11,3 +11,4 @@ WebSockets Zero Downtime Deployment Sharding Success is how high you bounce when
 DNS Routing Data Pipeline Do what you love and the money will follow. Automation Database Optimization React GraphQL Monitoring CI/CD JWT
 Replica Set Version Control Security Server Response DevOps Containerization I find that the harder I work, the more luck I seem to have. IoT Neural Networks Container Orchestration Big Data Stay hungry, stay foolish. Pull Request
 Server Response NLP Code Review Big Data Parallel Processing Dream big and dare to fail. A/B Testing Virtual Machines Data Pipeline
+Kafka Framework Pull Request Server Response API Gateway Automation JavaScript IoT Firewalls Artificial Intelligence Lambda Functions

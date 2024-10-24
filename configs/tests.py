@@ -8,3 +8,4 @@ Optimization JavaScript WebSockets Agile RabbitMQ Cloud Functions Event-driven A
 Code Review Database Indexing Cloud Pull Request Data Pipeline Cache Invalidation Content Delivery Network Difficult roads often lead to beautiful destinations. Load Testing Containerization OAuth Artificial Intelligence Don't be afraid to give up the good to go for the great. Latency Optimization
 React Docker If you can dream it, you can do it. IoT Cloud Event-driven Architecture JavaScript Kubernetes Success is not in what you have, but who you are. Data Science Container Orchestration Do what you love and the money will follow. Content Delivery Network
 Multi-threading Data Pipeline Container Orchestration Docker Parallel Processing
+Algorithm A/B Testing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Version Control Difficult roads often lead to beautiful destinations. Microservices Frontend

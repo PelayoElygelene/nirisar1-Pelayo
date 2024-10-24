@@ -7,3 +7,4 @@ Microservices Neural Networks Lambda Functions Monitoring To be the best, you mu
 GraphQL Data Pipeline Opportunities don't happen. You create them. Deployment Pull Request A/B Testing NLP
 Difficult roads often lead to beautiful destinations. UX Optimization Scalability JavaScript Success is not in what you have, but who you are. Container Orchestration Multi-threading Data Science Data Pipeline Virtual Machines To be the best, you must be able to handle the worst.
 Parallel Processing JWT RabbitMQ Server Response Blockchain Security Frontend Kubernetes Distributed Systems UX Optimization Load Balancing Code Review
+Data Pipeline To be the best, you must be able to handle the worst. Kubernetes Database Indexing Distributed Systems Event Sourcing Difficult roads often lead to beautiful destinations.

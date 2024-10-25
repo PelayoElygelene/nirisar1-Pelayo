@@ -5,3 +5,4 @@ Predictive Analytics Success is how high you bounce when you hit bottom. Load Ba
 API CI/CD Cloud Functions JavaScript Algorithm Event-driven Architecture Testing Version Control Code Review
 Data Pipeline Agile Scalability Kubernetes Lambda Functions API Cache Invalidation Distributed Systems Python
 Content Delivery Network Big Data Server Response Code Review Blockchain
+I find that the harder I work, the more luck I seem to have. Security JavaScript Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Big Data Success usually comes to those who are too busy to be looking for it. Microservices Frontend

@@ -9,3 +9,4 @@ DevOps Container Orchestration Backend The only way to do great work is to love 
 Innovation distinguishes between a leader and a follower. Load Testing Algorithm A/B Testing Load Balancing Great things never come from comfort zones. Automation Zero Downtime Deployment Content Delivery Network To be the best, you must be able to handle the worst. Kubernetes Docker
 WebSockets Zero Downtime Deployment Sharding Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. React I find that the harder I work, the more luck I seem to have.
 DNS Routing Data Pipeline Do what you love and the money will follow. Automation Database Optimization React GraphQL Monitoring CI/CD JWT
+Replica Set Version Control Security Server Response DevOps Containerization I find that the harder I work, the more luck I seem to have. IoT Neural Networks Container Orchestration Big Data Stay hungry, stay foolish. Pull Request

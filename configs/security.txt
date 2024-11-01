@@ -9,3 +9,4 @@ Lambda Functions Cloud Functions Artificial Intelligence RabbitMQ Microservices
 Zero Downtime Deployment Database Server Response IoT Framework Testing Machine Learning Algorithm Dream big and dare to fail. NLP OAuth UX Optimization
 Machine Learning JavaScript Security Neural Networks Kubernetes API Monitoring Framework Event Sourcing Code Review DNS Routing
 Database Indexing Neural Networks Kubernetes Event Sourcing Monitoring Load Testing Stay hungry, stay foolish. Containerization Logging Parallel Processing
+Latency Optimization React Success is not in what you have, but who you are. DNS Routing To be the best, you must be able to handle the worst. Big Data Neural Networks Success doesn’t just find you. You have to go out and get it. RabbitMQ Stay hungry, stay foolish.

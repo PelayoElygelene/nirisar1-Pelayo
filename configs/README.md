@@ -10,3 +10,4 @@ Database Algorithm Machine Learning A/B Testing Container Orchestration Microser
 Predictive Analytics Success is not in what you have, but who you are. Quantum Computing IoT A/B Testing Blockchain Scalability Load Testing Message Queue Agile Performance RabbitMQ
 Firewalls Big Data Great things never come from comfort zones. Agile Algorithm Database Indexing
 Logging Cache Invalidation Predictive Analytics Microservices Blockchain Dream big and dare to fail. Algorithm
+Optimization UX Optimization Testing Python Code Review Sharding Success is how high you bounce when you hit bottom. Backend

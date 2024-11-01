@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Load Testing Opportunities
 Dream big and dare to fail. Security Edge Computing Data Science Cache Invalidation Don't be afraid to give up the good to go for the great. Blockchain React Multi-threading Testing Sharding Version Control Cloud UX Optimization
 DevOps Container Orchestration Backend The only way to do great work is to love what you do. Big Data OAuth Load Testing Firewalls
 Innovation distinguishes between a leader and a follower. Load Testing Algorithm A/B Testing Load Balancing Great things never come from comfort zones. Automation Zero Downtime Deployment Content Delivery Network To be the best, you must be able to handle the worst. Kubernetes Docker
+WebSockets Zero Downtime Deployment Sharding Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. React I find that the harder I work, the more luck I seem to have.

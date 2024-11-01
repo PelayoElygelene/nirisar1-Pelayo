@@ -10,3 +10,4 @@ Data Science Docker Firewalls Agile Difficult roads often lead to beautiful dest
 Backend Latency Optimization Don't be afraid to give up the good to go for the great. Big Data Neural Networks Code Review React
 Virtual Machines Blockchain WebSockets NLP Happiness is not something ready made. It comes from your own actions. Content Delivery Network Neural Networks Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Automation Success usually comes to those who are too busy to be looking for it. Testing
 Neural Networks API Gateway Containerization Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Kubernetes Frontend I find that the harder I work, the more luck I seem to have.
+Cloud Difficult roads often lead to beautiful destinations. Edge Computing IoT Logging

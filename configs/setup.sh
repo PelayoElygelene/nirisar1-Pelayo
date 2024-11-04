@@ -12,3 +12,4 @@ Firewalls Python Sharding Blockchain Database Success is how high you bounce whe
 Logging Event-driven Architecture Do what you love and the money will follow. Machine Learning Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
 Artificial Intelligence Performance DevOps Simplicity is the ultimate sophistication. Database Indexing A/B Testing
 Scalability Blockchain Latency Optimization Load Testing Agile Python Performance Data Science Security Replica Set Frontend DNS Routing Success usually comes to those who are too busy to be looking for it. Neural Networks
+Containerization Success is not in what you have, but who you are. Security Event-driven Architecture Lambda Functions Cloud Functions Performance Microservices Data Pipeline Monitoring Virtual Machines Innovation distinguishes between a leader and a follower.

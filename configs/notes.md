@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. WebSockets Multi-threading
 DNS Routing Success is how high you bounce when you hit bottom. DevOps Blockchain Sharding API Success doesn’t just find you. You have to go out and get it. Big Data To be the best, you must be able to handle the worst. Docker Pull Request Happiness is not something ready made. It comes from your own actions.
 Parallel Processing CI/CD Monitoring Data Pipeline JWT
 Neural Networks WebSockets Distributed Systems JavaScript Kubernetes Event Sourcing Frontend API
+Data Science Algorithm Success is how high you bounce when you hit bottom. API Automation If you can dream it, you can do it. Frontend Server Response React Work hard in silence, let your success be your noise. Dream big and dare to fail.

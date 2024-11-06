@@ -10,3 +10,4 @@ Kafka Security WebSockets Sharding Big Data To be the best, you must be able to 
 Server Response Virtual Machines Machine Learning Event-driven Architecture Data Science UX Optimization Success is not in what you have, but who you are.
 NLP Backend Quantum Computing Edge Computing Latency Optimization Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Container Orchestration Success usually comes to those who are too busy to be looking for it. Kafka Version Control Predictive Analytics
 GraphQL RabbitMQ Data Pipeline Automation Containerization IoT Container Orchestration Artificial Intelligence Load Balancing
+Algorithm Zero Downtime Deployment CI/CD Kafka Agile JWT Logging Blockchain DNS Routing API Artificial Intelligence JavaScript

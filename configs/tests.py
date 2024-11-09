@@ -7,3 +7,4 @@ Code Review React Parallel Processing Zero Downtime Deployment Optimization Even
 Optimization JavaScript WebSockets Agile RabbitMQ Cloud Functions Event-driven Architecture IoT Python Event Sourcing API Performance
 Code Review Database Indexing Cloud Pull Request Data Pipeline Cache Invalidation Content Delivery Network Difficult roads often lead to beautiful destinations. Load Testing Containerization OAuth Artificial Intelligence Don't be afraid to give up the good to go for the great. Latency Optimization
 React Docker If you can dream it, you can do it. IoT Cloud Event-driven Architecture JavaScript Kubernetes Success is not in what you have, but who you are. Data Science Container Orchestration Do what you love and the money will follow. Content Delivery Network
+Multi-threading Data Pipeline Container Orchestration Docker Parallel Processing

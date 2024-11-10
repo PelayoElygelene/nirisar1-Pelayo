@@ -7,3 +7,4 @@ Edge Computing If you can dream it, you can do it. Virtual Machines Opportunitie
 Replica Set Content Delivery Network Event Sourcing Event-driven Architecture Pull Request Performance Firewalls DNS Routing Testing
 Lambda Functions Cloud Functions Artificial Intelligence RabbitMQ Microservices
 Zero Downtime Deployment Database Server Response IoT Framework Testing Machine Learning Algorithm Dream big and dare to fail. NLP OAuth UX Optimization
+Machine Learning JavaScript Security Neural Networks Kubernetes API Monitoring Framework Event Sourcing Code Review DNS Routing

@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. Security Code Review Blockchain Artif
 Neural Networks Virtual Machines Load Testing Act as if what you do makes a difference. It does. RabbitMQ Event-driven Architecture
 Code Review React Parallel Processing Zero Downtime Deployment Optimization Event Sourcing Message Queue Happiness is not something ready made. It comes from your own actions. Data Science Predictive Analytics CI/CD Microservices Algorithm Cache Invalidation
 Optimization JavaScript WebSockets Agile RabbitMQ Cloud Functions Event-driven Architecture IoT Python Event Sourcing API Performance
+Code Review Database Indexing Cloud Pull Request Data Pipeline Cache Invalidation Content Delivery Network Difficult roads often lead to beautiful destinations. Load Testing Containerization OAuth Artificial Intelligence Don't be afraid to give up the good to go for the great. Latency Optimization

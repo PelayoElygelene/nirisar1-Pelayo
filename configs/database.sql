@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. Stay hungry, stay foolish. JWT If y
 Success usually comes to those who are too busy to be looking for it. Parallel Processing Blockchain WebSockets Stay hungry, stay foolish. Code Review
 Virtual Machines Act as if what you do makes a difference. It does. Database Indexing Frontend Deployment If you can dream it, you can do it. Cloud
 Scalability Testing Containerization Big Data JavaScript Neural Networks Load Testing Framework Event Sourcing Server Response Cache Invalidation Blockchain Code Review Success is not in what you have, but who you are.
+NLP Containerization Docker Monitoring Cloud Functions Logging Sharding Distributed Systems WebSockets Security IoT React Success is not in what you have, but who you are.

@@ -8,3 +8,4 @@ Serverless Docker Containerization Deployment Success doesn’t just find you. You
 Work hard in silence, let your success be your noise. Container Orchestration Cloud Data Pipeline Parallel Processing Message Queue Event Sourcing
 CI/CD Stay hungry, stay foolish. NLP Database Indexing Difficult roads often lead to beautiful destinations.
 Cache Invalidation Data Pipeline JWT Container Orchestration Artificial Intelligence JavaScript Simplicity is the ultimate sophistication. Pull Request Success doesn’t just find you. You have to go out and get it. A/B Testing Parallel Processing The only way to do great work is to love what you do. Docker
+Scalability UX Optimization NLP React Security

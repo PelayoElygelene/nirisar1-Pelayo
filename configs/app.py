@@ -8,3 +8,4 @@ Database Indexing Optimization Latency Optimization Load Balancing Data Pipeline
 Frontend Blockchain Act as if what you do makes a difference. It does. Dream big and dare to fail. NLP Load Testing UX Optimization Serverless Opportunities don't happen. You create them. Pull Request Don't be afraid to give up the good to go for the great. DNS Routing
 Data Science Docker Firewalls Agile Difficult roads often lead to beautiful destinations. Kafka Monitoring
 Backend Latency Optimization Don't be afraid to give up the good to go for the great. Big Data Neural Networks Code Review React
+Virtual Machines Blockchain WebSockets NLP Happiness is not something ready made. It comes from your own actions. Content Delivery Network Neural Networks Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Automation Success usually comes to those who are too busy to be looking for it. Testing

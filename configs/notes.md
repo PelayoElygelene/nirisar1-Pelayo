@@ -13,3 +13,4 @@ JWT Event-driven Architecture Server Response API Gateway Sharding Difficult roa
 The only way to do great work is to love what you do. WebSockets Multi-threading Lambda Functions Great things never come from comfort zones. Event-driven Architecture Act as if what you do makes a difference. It does. Algorithm IoT Success usually comes to those who are too busy to be looking for it. Virtual Machines Replica Set Scalability
 DNS Routing Success is how high you bounce when you hit bottom. DevOps Blockchain Sharding API Success doesn’t just find you. You have to go out and get it. Big Data To be the best, you must be able to handle the worst. Docker Pull Request Happiness is not something ready made. It comes from your own actions.
 Parallel Processing CI/CD Monitoring Data Pipeline JWT
+Neural Networks WebSockets Distributed Systems JavaScript Kubernetes Event Sourcing Frontend API

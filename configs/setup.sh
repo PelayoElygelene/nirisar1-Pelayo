@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. Cloud CI/
 Firewalls Python Sharding Blockchain Database Success is how high you bounce when you hit bottom. Edge Computing Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. UX Optimization Big Data
 Logging Event-driven Architecture Do what you love and the money will follow. Machine Learning Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
 Artificial Intelligence Performance DevOps Simplicity is the ultimate sophistication. Database Indexing A/B Testing
+Scalability Blockchain Latency Optimization Load Testing Agile Python Performance Data Science Security Replica Set Frontend DNS Routing Success usually comes to those who are too busy to be looking for it. Neural Networks

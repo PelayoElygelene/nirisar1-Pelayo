@@ -6,3 +6,4 @@ Latency Optimization Opportunities don't happen. You create them. JavaScript Aut
 The only way to do great work is to love what you do. Load Testing Opportunities don't happen. You create them. A/B Testing Docker JWT Automation Stay hungry, stay foolish. Kafka Latency Optimization
 Dream big and dare to fail. Security Edge Computing Data Science Cache Invalidation Don't be afraid to give up the good to go for the great. Blockchain React Multi-threading Testing Sharding Version Control Cloud UX Optimization
 DevOps Container Orchestration Backend The only way to do great work is to love what you do. Big Data OAuth Load Testing Firewalls
+Innovation distinguishes between a leader and a follower. Load Testing Algorithm A/B Testing Load Balancing Great things never come from comfort zones. Automation Zero Downtime Deployment Content Delivery Network To be the best, you must be able to handle the worst. Kubernetes Docker

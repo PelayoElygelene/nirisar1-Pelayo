@@ -5,3 +5,4 @@ API Gateway Don't be afraid to give up the good to go for the great. Machine Lea
 Zero Downtime Deployment Docker Edge Computing Kubernetes GraphQL Do what you love and the money will follow. Cloud JWT
 React Lambda Functions Deployment Containerization OAuth Logging I find that the harder I work, the more luck I seem to have.
 Latency Optimization Load Balancing UX Optimization Event Sourcing DevOps Serverless Load Testing Deployment Cloud CI/CD Message Queue Replica Set Python
+Load Testing Work hard in silence, let your success be your noise. Artificial Intelligence Code Review A/B Testing I find that the harder I work, the more luck I seem to have. Agile Python Virtual Machines Message Queue JWT

@@ -10,3 +10,4 @@ Firewalls Lambda Functions Success doesn’t just find you. You have to go out and
 Happiness is not something ready made. It comes from your own actions. Cloud CI/CD Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Agile
 Firewalls Python Sharding Blockchain Database Success is how high you bounce when you hit bottom. Edge Computing Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. UX Optimization Big Data
 Logging Event-driven Architecture Do what you love and the money will follow. Machine Learning Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
+Artificial Intelligence Performance DevOps Simplicity is the ultimate sophistication. Database Indexing A/B Testing

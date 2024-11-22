@@ -6,3 +6,4 @@ Database Container Orchestration Testing Latency Optimization Algorithm Kafka Ja
 Artificial Intelligence Virtual Machines Stay hungry, stay foolish. Load Balancing RabbitMQ Quantum Computing Innovation distinguishes between a leader and a follower. Version Control Kubernetes
 WebSockets Firewalls React Blockchain Innovation distinguishes between a leader and a follower. Version Control Multi-threading Opportunities don't happen. You create them. Latency Optimization Cache Invalidation Serverless UX Optimization Scalability Docker
 Event Sourcing DevOps Cloud Docker Work hard in silence, let your success be your noise. Machine Learning Virtual Machines Database
+Database Algorithm Machine Learning A/B Testing Container Orchestration Microservices Scalability Pull Request Lambda Functions Backend Work hard in silence, let your success be your noise. Virtual Machines Message Queue If you can dream it, you can do it. Load Balancing

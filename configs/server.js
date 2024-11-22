@@ -4,3 +4,4 @@ Frontend Pull Request Testing A/B Testing API Act as if what you do makes a diff
 API Gateway Don't be afraid to give up the good to go for the great. Machine Learning Load Testing CI/CD Event Sourcing
 Zero Downtime Deployment Docker Edge Computing Kubernetes GraphQL Do what you love and the money will follow. Cloud JWT
 React Lambda Functions Deployment Containerization OAuth Logging I find that the harder I work, the more luck I seem to have.
+Latency Optimization Load Balancing UX Optimization Event Sourcing DevOps Serverless Load Testing Deployment Cloud CI/CD Message Queue Replica Set Python

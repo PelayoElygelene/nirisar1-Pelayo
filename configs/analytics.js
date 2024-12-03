@@ -8,3 +8,4 @@ Blockchain Python Stay hungry, stay foolish. Cloud Functions Simplicity is the u
 Opportunities don't happen. You create them. Parallel Processing Data Pipeline Framework Code Review Kubernetes Replica Set Stay hungry, stay foolish.
 Kafka Security WebSockets Sharding Big Data To be the best, you must be able to handle the worst. API Latency Optimization Great things never come from comfort zones. React CI/CD Quantum Computing Docker
 Server Response Virtual Machines Machine Learning Event-driven Architecture Data Science UX Optimization Success is not in what you have, but who you are.
+NLP Backend Quantum Computing Edge Computing Latency Optimization Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Container Orchestration Success usually comes to those who are too busy to be looking for it. Kafka Version Control Predictive Analytics

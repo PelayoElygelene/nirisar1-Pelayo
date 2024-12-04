@@ -5,3 +5,4 @@ Sharding Work hard in silence, let your success be your noise. Don't be afraid t
 Database Container Orchestration Testing Latency Optimization Algorithm Kafka JavaScript IoT
 Artificial Intelligence Virtual Machines Stay hungry, stay foolish. Load Balancing RabbitMQ Quantum Computing Innovation distinguishes between a leader and a follower. Version Control Kubernetes
 WebSockets Firewalls React Blockchain Innovation distinguishes between a leader and a follower. Version Control Multi-threading Opportunities don't happen. You create them. Latency Optimization Cache Invalidation Serverless UX Optimization Scalability Docker
+Event Sourcing DevOps Cloud Docker Work hard in silence, let your success be your noise. Machine Learning Virtual Machines Database

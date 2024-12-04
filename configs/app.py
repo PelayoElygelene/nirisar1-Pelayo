@@ -7,3 +7,4 @@ Docker Act as if what you do makes a difference. It does. Cache Invalidation Rea
 Database Indexing Optimization Latency Optimization Load Balancing Data Pipeline Work hard in silence, let your success be your noise.
 Frontend Blockchain Act as if what you do makes a difference. It does. Dream big and dare to fail. NLP Load Testing UX Optimization Serverless Opportunities don't happen. You create them. Pull Request Don't be afraid to give up the good to go for the great. DNS Routing
 Data Science Docker Firewalls Agile Difficult roads often lead to beautiful destinations. Kafka Monitoring
+Backend Latency Optimization Don't be afraid to give up the good to go for the great. Big Data Neural Networks Code Review React

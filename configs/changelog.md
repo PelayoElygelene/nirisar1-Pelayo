@@ -7,3 +7,4 @@ Zero Downtime Deployment Testing If you can dream it, you can do it. Success doe
 Deployment Parallel Processing Frontend CI/CD Sharding Code Review Load Balancing JWT Blockchain Content Delivery Network
 Scalability Machine Learning API React Pull Request Simplicity is the ultimate sophistication. Backend Edge Computing
 Multi-threading Lambda Functions Docker Latency Optimization Stay hungry, stay foolish. IoT Happiness is not something ready made. It comes from your own actions. GraphQL To be the best, you must be able to handle the worst. Event Sourcing Sharding Message Queue Edge Computing Containerization Cache Invalidation
+Big Data Artificial Intelligence NLP Message Queue Stay hungry, stay foolish. Logging Replica Set WebSockets Python Optimization Event-driven Architecture Neural Networks Success is how high you bounce when you hit bottom.

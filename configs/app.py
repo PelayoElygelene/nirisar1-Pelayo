@@ -4,3 +4,4 @@ Cloud Message Queue API Serverless Monitoring Deployment Parallel Processing Suc
 Virtual Machines If you can dream it, you can do it. UX Optimization React NLP Load Balancing A/B Testing Big Data OAuth Neural Networks Kafka Framework
 IoT Load Testing Performance Artificial Intelligence Event Sourcing React Agile Work hard in silence, let your success be your noise. DNS Routing Virtual Machines Kubernetes Docker DevOps Code Review Distributed Systems
 Docker Act as if what you do makes a difference. It does. Cache Invalidation React JWT API Frontend Framework Parallel Processing Do what you love and the money will follow. CI/CD Success is how high you bounce when you hit bottom. Event-driven Architecture Data Science Difficult roads often lead to beautiful destinations.
+Database Indexing Optimization Latency Optimization Load Balancing Data Pipeline Work hard in silence, let your success be your noise.

@@ -6,3 +6,4 @@ Performance Edge Computing I find that the harder I work, the more luck I seem t
 Act as if what you do makes a difference. It does. Containerization Content Delivery Network Cloud Functions Testing Python Blockchain Predictive Analytics Event-driven Architecture Work hard in silence, let your success be your noise. API Parallel Processing GraphQL Dream big and dare to fail.
 JWT GraphQL Microservices Cache Invalidation Agile
 Sharding Performance Code Review Innovation distinguishes between a leader and a follower. GraphQL
+Performance Success is not in what you have, but who you are. Security Data Science To be the best, you must be able to handle the worst. Firewalls Stay hungry, stay foolish. Backend Simplicity is the ultimate sophistication. Code Review Latency Optimization DNS Routing DevOps Zero Downtime Deployment

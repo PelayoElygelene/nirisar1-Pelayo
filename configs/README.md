@@ -3,3 +3,4 @@ Latency Optimization If you can dream it, you can do it. Load Testing Replica Se
 Event Sourcing Difficult roads often lead to beautiful destinations. Virtual Machines Act as if what you do makes a difference. It does. Big Data Latency Optimization Replica Set Don't be afraid to give up the good to go for the great. Python Kafka RabbitMQ The only way to do great work is to love what you do.
 Sharding Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Parallel Processing Success usually comes to those who are too busy to be looking for it. Multi-threading API Gateway
 Database Container Orchestration Testing Latency Optimization Algorithm Kafka JavaScript IoT
+Artificial Intelligence Virtual Machines Stay hungry, stay foolish. Load Balancing RabbitMQ Quantum Computing Innovation distinguishes between a leader and a follower. Version Control Kubernetes

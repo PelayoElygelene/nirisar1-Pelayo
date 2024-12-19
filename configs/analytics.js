@@ -5,3 +5,4 @@ RabbitMQ Opportunities don't happen. You create them. Agile Happiness is not som
 Distributed Systems If you can dream it, you can do it. Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. GraphQL Big Data NLP Replica Set Event Sourcing Multi-threading Stay hungry, stay foolish. Scalability Load Testing JavaScript Performance
 Kubernetes To be the best, you must be able to handle the worst. Load Testing Frontend Containerization
 Blockchain Python Stay hungry, stay foolish. Cloud Functions Simplicity is the ultimate sophistication. DevOps Do what you love and the money will follow. Frontend Event-driven Architecture Kafka Parallel Processing
+Opportunities don't happen. You create them. Parallel Processing Data Pipeline Framework Code Review Kubernetes Replica Set Stay hungry, stay foolish.

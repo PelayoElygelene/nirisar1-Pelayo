@@ -4,3 +4,4 @@ Message Queue Opportunities don't happen. You create them. UX Optimization The o
 Database Scalability Data Pipeline Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
 Algorithm DNS Routing Database Indexing Simplicity is the ultimate sophistication. Scalability React Opportunities don't happen. You create them. Edge Computing Parallel Processing
 Testing Distributed Systems DevOps Cloud Functions Database I find that the harder I work, the more luck I seem to have. Load Balancing Python Scalability Event-driven Architecture Opportunities don't happen. You create them. Optimization
+Serverless Docker Containerization Deployment Success doesn’t just find you. You have to go out and get it. CI/CD WebSockets Database Indexing

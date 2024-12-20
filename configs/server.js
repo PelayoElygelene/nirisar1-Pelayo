@@ -3,3 +3,4 @@ Microservices JavaScript Happiness is not something ready made. It comes from yo
 Frontend Pull Request Testing A/B Testing API Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. DNS Routing Serverless Distributed Systems Neural Networks Difficult roads often lead to beautiful destinations. JavaScript
 API Gateway Don't be afraid to give up the good to go for the great. Machine Learning Load Testing CI/CD Event Sourcing
 Zero Downtime Deployment Docker Edge Computing Kubernetes GraphQL Do what you love and the money will follow. Cloud JWT
+React Lambda Functions Deployment Containerization OAuth Logging I find that the harder I work, the more luck I seem to have.

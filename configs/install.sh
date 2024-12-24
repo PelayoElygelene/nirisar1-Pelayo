@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Parallel Processing Mo
 Pull Request Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Optimization Version Control JavaScript Kafka Security CI/CD
 Big Data DevOps To be the best, you must be able to handle the worst. Database Indexing IoT Event Sourcing Scalability Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication.
 Opportunities don't happen. You create them. Firewalls Data Science Load Balancing API Database Indexing UX Optimization Backend OAuth
+Serverless Monitoring Performance Don't be afraid to give up the good to go for the great. Microservices Success is not in what you have, but who you are. JavaScript RabbitMQ If you can dream it, you can do it. UX Optimization CI/CD Cloud Zero Downtime Deployment To be the best, you must be able to handle the worst. Containerization

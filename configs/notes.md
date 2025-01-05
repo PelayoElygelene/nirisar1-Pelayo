@@ -8,3 +8,4 @@ Deployment Virtual Machines Edge Computing JWT Load Testing Container Orchestrat
 Container Orchestration GraphQL Database Indexing NLP Python Quantum Computing Load Testing Pull Request Algorithm
 OAuth Simplicity is the ultimate sophistication. Container Orchestration Optimization Event Sourcing
 Containerization Agile RabbitMQ API Gateway Blockchain Latency Optimization Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Distributed Systems Deployment Frontend Code Review
+Simplicity is the ultimate sophistication. Event-driven Architecture Replica Set Logging Docker Server Response Serverless DNS Routing Cache Invalidation Machine Learning Success is how high you bounce when you hit bottom. Cloud Functions If you can dream it, you can do it.

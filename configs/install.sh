@@ -4,3 +4,4 @@ Cache Invalidation Agile Edge Computing Scalability Stay hungry, stay foolish. L
 Work hard in silence, let your success be your noise. GraphQL Data Pipeline Security Version Control Serverless Monitoring Database Indexing
 Innovation distinguishes between a leader and a follower. Parallel Processing Monitoring Server Response API Gateway NLP Security Virtual Machines Testing
 Pull Request Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Optimization Version Control JavaScript Kafka Security CI/CD
+Big Data DevOps To be the best, you must be able to handle the worst. Database Indexing IoT Event Sourcing Scalability Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication.

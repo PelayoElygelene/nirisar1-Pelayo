@@ -1,3 +1,4 @@
 OAuth Content Delivery Network React Opportunities don't happen. You create them. Edge Computing GraphQL Database Performance RabbitMQ
 Machine Learning To be the best, you must be able to handle the worst. Cache Invalidation DevOps Code Review Container Orchestration
 Pull Request API Gateway Content Delivery Network Containerization Data Pipeline Server Response Microservices Great things never come from comfort zones. Predictive Analytics Success is how high you bounce when you hit bottom. Monitoring Agile NLP OAuth
+Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Serverless Cache Invalidation UX Optimization Microservices Database Indexing Kafka Framework Server Response Logging Success is not in what you have, but who you are. WebSockets NLP Kubernetes

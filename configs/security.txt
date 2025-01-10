@@ -1,2 +1,3 @@
 Performance Optimization Security Zero Downtime Deployment Cache Invalidation Multi-threading Testing Cloud Functions Data Pipeline A/B Testing Cloud
 Logging Security Deployment Testing Message Queue Success is not in what you have, but who you are.
+Zero Downtime Deployment NLP Artificial Intelligence Edge Computing Database

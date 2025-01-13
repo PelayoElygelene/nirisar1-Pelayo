@@ -6,3 +6,4 @@ Predictive Analytics Performance OAuth API Algorithm Simplicity is the ultimate 
 Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Message Queue Success is how high you bounce when you hit bottom. Content Delivery Network DevOps Event Sourcing I find that the harder I work, the more luck I seem to have. Testing
 Deployment Virtual Machines Edge Computing JWT Load Testing Container Orchestration Monitoring Difficult roads often lead to beautiful destinations. Backend
 Container Orchestration GraphQL Database Indexing NLP Python Quantum Computing Load Testing Pull Request Algorithm
+OAuth Simplicity is the ultimate sophistication. Container Orchestration Optimization Event Sourcing

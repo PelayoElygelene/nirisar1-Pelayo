@@ -7,3 +7,4 @@ Do what you love and the money will follow. Don't be afraid to give up the good 
 Deployment Virtual Machines Edge Computing JWT Load Testing Container Orchestration Monitoring Difficult roads often lead to beautiful destinations. Backend
 Container Orchestration GraphQL Database Indexing NLP Python Quantum Computing Load Testing Pull Request Algorithm
 OAuth Simplicity is the ultimate sophistication. Container Orchestration Optimization Event Sourcing
+Containerization Agile RabbitMQ API Gateway Blockchain Latency Optimization Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Distributed Systems Deployment Frontend Code Review

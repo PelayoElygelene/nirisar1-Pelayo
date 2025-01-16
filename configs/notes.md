@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. I find that the harder I w
 Framework Act as if what you do makes a difference. It does. CI/CD UX Optimization Latency Optimization Monitoring Great things never come from comfort zones. NLP Quantum Computing Container Orchestration Data Pipeline Microservices Zero Downtime Deployment Cloud Stay hungry, stay foolish.
 Predictive Analytics Performance OAuth API Algorithm Simplicity is the ultimate sophistication.
 Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Message Queue Success is how high you bounce when you hit bottom. Content Delivery Network DevOps Event Sourcing I find that the harder I work, the more luck I seem to have. Testing
+Deployment Virtual Machines Edge Computing JWT Load Testing Container Orchestration Monitoring Difficult roads often lead to beautiful destinations. Backend

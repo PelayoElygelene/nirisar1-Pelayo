@@ -2,3 +2,4 @@ Docker Containerization Performance Container Orchestration Content Delivery Net
 Framework Sharding Testing Edge Computing React I find that the harder I work, the more luck I seem to have. Database Quantum Computing Performance Innovation distinguishes between a leader and a follower. Serverless JWT IoT DevOps Difficult roads often lead to beautiful destinations.
 Message Queue Opportunities don't happen. You create them. UX Optimization The only way to do great work is to love what you do. Zero Downtime Deployment Success is not in what you have, but who you are. API Gateway
 Database Scalability Data Pipeline Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
+Algorithm DNS Routing Database Indexing Simplicity is the ultimate sophistication. Scalability React Opportunities don't happen. You create them. Edge Computing Parallel Processing

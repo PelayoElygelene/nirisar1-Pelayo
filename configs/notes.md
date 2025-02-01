@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. Pull Request Docker Event Sourcing Testing Big Data Performance Virtual Machines Distributed Systems JavaScript Stay hungry, stay foolish. Firewalls Data Pipeline

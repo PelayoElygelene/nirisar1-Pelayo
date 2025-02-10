@@ -1,1 +1,2 @@
 Database Lambda Functions Server Response Code Review Automation Quantum Computing Data Pipeline Artificial Intelligence Deployment Cache Invalidation Great things never come from comfort zones.
+API Gateway UX Optimization Load Balancing A/B Testing Success doesn’t just find you. You have to go out and get it. Latency Optimization Cache Invalidation Cloud Functions API Cloud DevOps Algorithm Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise.
